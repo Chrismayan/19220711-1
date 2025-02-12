@@ -1,0 +1,1 @@
+说明：使用python运行gobangGUI.py，即可打开对局界面
